@@ -8,4 +8,5 @@ package com.yidu.bean;
  */
 public class Main2 {
     private String name="一";
+     private String name="二";
 }
